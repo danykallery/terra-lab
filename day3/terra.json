@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "brave-healer-417112",
+    "private_key_id": "59c7257c0d80c2065c172afcab78b8e65d586a18",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLk1vvj/p0CxhH\n0ox+J2g4/8cC3wTctoNZDxHjsD25seLd9be8b3EhOdwruWeNtwRgsAhq/qKuqgtm\ni7Tlp+KrUyZMvaV8xlDTQ4/azNNgWuXPUtoj6Tbj6Duq3Gg6WJwzzS94jCeht8YS\nzkEOJa3INOkl+zIj80pQmgkzo37XWRaDLE9XHyIizG/mvgnrFrCJN+YGKUgEVZtO\nAt9qTN5ITahboVQadjG6HAPGPZr8d/2letCFMGxEWGgFNB44ySYAN66iwXrdtthA\nmShyzZaUiR2CxosumW7LV6uPlHQ+cBhZWySiCUS63nUhUhG5iwS033KwYYeLveCI\nQ0vUbY+XAgMBAAECggEAS8BFJQMD1JtuSQeBTM4YG6GdqaVYF1L41DJl2z4w8cDO\nJP6yhHVJeO4hTcnbTSHtiJboQvwGiAzxWhKhWRWcJFk39rVY93GKENrilC3Ed+XK\n/tcbIeK9kJfRYBZM2G0xjpsKz4YDl0sdctD55yxBGq8JlJ8AvNziadSvmN39LF8o\nvHdokU7uvoT7KMgSUL7mRdRCTHYTl41QmPp7WH9YRX1BvSsXypdi3DT/WCBhc6ky\naZs6jv8u5WPsFUzS2MT1e//2VJ7KLNNODMC3VTmyh4MQTDbtJZJJwv8VWT63nCsP\n1w9qjSwLdszqL9K4yBqVkqx1nm9vTnC5nzy7fnvBQQKBgQD+VZkT4jvLhAh8swvR\nYynHHPv2t6XNSHGaqC2l1erDM5+B7JWuxzoTZN3kpqRlUSdM8uPqruKy3/3PZn8R\nr1Ho2NJ+G2JmW0BlwI/iQXVBRCL1qJYdVREy16w64QJ0DWefADMKaKgMhJ6J5ta5\no2uq4c1ibBdI9zd0NDvPTNfAwQKBgQDM6Kl7SPil4K10/dysEdCGrLMaMpdcgTXA\nSKpwQbO4zct7ukdEdNywwgfpT7ZAHn+pOFqQ+NlFIqwYO1kqxj0NnwLID5pXXiFz\nDPgYDRYDDXXF2qtyYn1sY9v6PToXC8koV5hWI2mZudFI4AkM3MPSAknZm1dE+tLw\niRn4ZjCOVwKBgQDjA4J0Vg3rVTnCHIqi5jFHMd7Q1BFhT5VfZ1f/WxaGD9EDRipA\n7EExSGorCndYm/xJWdAIDPv6j6Zb9m/bWDLzdH1F5KmLFU5AxIVpfeXsUKYnwcfj\n/KcyS4HGuErZTZG9QY9Nbib5rXJZQrtMzcpvp8cMX9DU5x0PUwRDv6IgwQKBgQCi\nAJhuNkUPsFCzHDopeHQq5cM8RR9SLX23pjvKQMe8pkfobGAICXSp8t2aYkEu9G3t\n9fX0hCoS9NSm29UlclG2wS7LyTo3NN6xPWGwcjgi9bNVWAsQhjmvRkwWze1tZw4E\n7SwtfhXxSe3i9e1x0+Cl2tVUS/J1QPEg5uQ3dWOSRQKBgHMI3HkKnU5z+Lr5r5Lq\nQXsH9/Nn9Ul3RJs+Zz8/Bgt54v6IUHxCtc514U809qORu5coH38qEF43aeq3VE1A\nAP5rSw2XhCd3bMoDMqJXk+XzypZ/uOsXIsZqt2caA8E67pzG4VhOnqk6Obo6t7bw\nhzvJ53mYfyF2qDvScIWSqJfN\n-----END PRIVATE KEY-----\n",
+    "client_email": "terraform-lab@brave-healer-417112.iam.gserviceaccount.com",
+    "client_id": "117468032550399441108",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-lab%40brave-healer-417112.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
